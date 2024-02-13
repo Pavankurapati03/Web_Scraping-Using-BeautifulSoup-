@@ -1,0 +1,4 @@
+bs4
+requests
+lxml
+IDE : Anaconda(Jupyter Notebook) or Pycharm
